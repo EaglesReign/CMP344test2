@@ -4,6 +4,7 @@
 //array.js
 
 //Problem 1 under Javascript 101
+//This program will print 20 numbers between 10 and 200.
 
 function array() {
   var arr = [];
