@@ -4,7 +4,7 @@
 
 //Problem 3 of Javascript 101
 //This program prompts the user for a string and then an integer and will
-//print them back to the user.
+//print them back to the user. 
 
 print("Enter a string.");
 var input1 = readline();
