@@ -16,4 +16,11 @@ Use the d8 interpreter.
 run prompt.js and it will prompt you for a string. Type in a string.
 It'll prompt you for an integer. Type in an integer. It'll then
 print them back to you.
+
+Algorithms and Operations Problem 2
+conformingGraph.js
+Use the d8 interpreter.
+Run conformingGraph.js and it will print the visited vertexes as well 
+as the shortest path through the graph.
+
 </pre>
